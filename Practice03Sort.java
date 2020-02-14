@@ -6,5 +6,5 @@
  */
 public interface Practice03Sort {
 
-	void sort(int [] a);
+    void sort(int [] a);
 }

@@ -6,5 +6,5 @@
  */
 public interface Practice03Search {
 
-	public int search(int [] arr, int target);
+    public int search(int [] arr, int target);
 }
